@@ -1,1 +1,3 @@
-# drop-down-image-slider
+# Webpack template
+
+-Sets up css and style loader
